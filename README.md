@@ -1,13 +1,13 @@
 # makaan.web-scraping
 scrapping 50 pages of appartments data in Hydrabad from makaan.com
-#programming language
+# programming language
 PYTHON3
-##Modules used
+## Modules used
 1. Requests
 2. BeautifulSoup from bs4
 3. time
 4. pandas
-#Collected data includes
+# Collected data includes
 1. owner info
 2. bhk
 3. locality
